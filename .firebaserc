@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "my-vue-resume",
+    "addDist": "my-vue-resume",
+    "resume": "my-vue-resume",
+    "dist": "my-vue-resume"
+  },
+  "targets": {},
+  "etags": {}
+}
